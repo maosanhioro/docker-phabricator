@@ -15,11 +15,13 @@
 ## 使い方
 
 ```
-git clone https://github.com/maosanhioro/docker-phabricator.git
+$ git clone https://github.com/maosanhioro/docker-phabricator.git
 $ cd docker-phabricator
 $ ./bin/build.sh
 $ ./bin/rund.sh
 ```
+
+* Imageだけで完結できてないので`docker run`からじゃなくて`git clone`からで。
 
 ## アクセス
 ### ブラウザからPhabricatorに
