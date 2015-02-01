@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --no-cache --rm -t maosanhioro/phabricator .
+docker build --no-cache --rm -t maosanhioro/docker-phabricator .

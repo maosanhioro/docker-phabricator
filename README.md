@@ -13,13 +13,6 @@
 * MySQL 5.5
 
 ## 使い方
-### DockerHubからrun
-
-```
-$ docker run maosanhioro/phabricator
-```
-
-### 自分でbuild & run
 
 ```
 git clone https://github.com/maosanhioro/docker-phabricator.git
